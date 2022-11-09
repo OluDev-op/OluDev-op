@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and Cybersecurity
 - 🌱 I’m currently learning Software Development at the ALX cohort 11 
 - 💞️ I’m looking to collaborate on this New journey to Full stack devop engineer 
-- 📫 How to reach me Via the underlisted handles;
+- 📫 You can  reach me Via the underlisted handles;
 -  Twitter @idris_vctor,
 - Gmail @victor.o.idris,
 - Linkedin @ victor O. Idris.
